@@ -1,0 +1,6 @@
+auto : true
+permalink : /:title/
+exclude : ['sass', 'config.rb', 'README.md']
+
+title : Nelson Joyce
+description : Portfolio
